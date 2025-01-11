@@ -1,5 +1,11 @@
 ## Hi there 👋
-Game
+My name is Kaden and I am still in college. 
+Im studying Programming and game design.
+During my time at school ive worked with Unity and Unreal Engine, and a few different languages
+such as C++, C#, Java, Dart, PHP, HTML, Css, Python and SQL.
+
+In my free time im working on two of my own games by my self.
+Im making an fps in Unreal Engine and a VR game in Unity.
 
 <!--
 **ToasT491/Toast491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
